@@ -1,10 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/fbsamples/insights_dashboard">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
+  
 <h3 align="center">Meta Insights API Dashboard</h3>
 
   <p align="center">
